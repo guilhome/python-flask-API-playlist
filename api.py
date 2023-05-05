@@ -74,4 +74,4 @@ def get_store_item(name):
     return jsonify({'message': 'store not found'})
 
 
-app.run(port=5000)
+app.run(port=5010)
